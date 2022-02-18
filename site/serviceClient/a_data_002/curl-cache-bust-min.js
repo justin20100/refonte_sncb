@@ -1,0 +1,2 @@
+define(["curl/_privileged"],function(a){var b=a.core.loadScript;a.core.loadScript=function(c,d,e){var f=a.config().urlArgs;return f&&(c.url+=(c.url.indexOf("?")>=0?"&":"?")+f),b(c,d,e)}});
+//# sourceMappingURL=curl-cache-bust-min.js.map
