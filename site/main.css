@@ -1,3 +1,12 @@
+#titrefooterh3{
+    font-size: 22px;
+}
+#titrecontainercontenth2{
+    font-size: 30px;
+}
+#titreactualiteh3{
+    font-size: 22px;
+}
 *:focus{
     border: solid 4px yellow;
     background-color: yellow;
